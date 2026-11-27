@@ -55,3 +55,10 @@ theme = 'PaperMod'
   name = "Privasi"
   url = "/privacy-policy/"
   weight = 50
+
+  ShowToc = true
+  TocOpen = false
+
+[params.homeInfoParams]
+  Title = "Halo, Selamat Datang! 👋"
+  Content = "Panduan lengkap menghasilkan dolar dari SproutGigs untuk pemula. Pelajari cara daftar, trik lulus tugas, hingga tarik saldo ke DANA."
