@@ -35,4 +35,4 @@ Setelah saldo dari tugas-tugas ini terkumpul minimal $5.00 USD, kamu bisa langsu
 ---
 ### Belum Punya Akun SproutGigs?
 Mulai kumpulkan penghasilan tambahan dari HP atau laptop sekarang secara gratis:
-👉 **[Daftar Akun SproutGigs Gratis di Sini](https://sproutgigs.com)**
+👉 **[Daftar Akun SproutGigs Gratis di Sini](https://sproutgigs.com/u/ARIEF9999?a=b782660e)**
