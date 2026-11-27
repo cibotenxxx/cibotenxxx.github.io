@@ -32,3 +32,8 @@ SproutGigs menyediakan beberapa jalur pencairan dana yang bisa digunakan pekerja
 Proses peninjauan penarikan di SproutGigs biasanya memakan waktu maksimal **10 hari kerja**, meskipun pada praktiknya sering kali masuk lebih cepat dalam **1 hingga 3 hari kerja** setelah status berubah menjadi *Paid*.
 
 > **Tips Penting:** Pastikan selama bekerja hingga proses penarikan dana kamu tidak pernah menggunakan VPN, agar proses *review* pencairan berjalan lancar tanpa kendala.
+
+---
+### Tertarik Mulai Menghasilkan Dolar dari SproutGigs?
+Belum punya akun untuk mulai mengumpulkan saldo? Daftar sekarang secara gratis lewat HP atau laptop:
+👉 **[Daftar Akun SproutGigs Gratis di Sini](https://sproutgigs.com/u/ARIEF9999?a=b782660e)**
