@@ -43,3 +43,15 @@ theme = 'PaperMod'
   name = "Privasi"
   url = "/privacy-policy/"
   weight = 50
+
+[[menu.main]]
+  identifier = "about"
+  name = "Tentang"
+  url = "/about/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privasi"
+  url = "/privacy-policy/"
+  weight = 50

@@ -1,6 +1,6 @@
 +++
 title = 'Kebijakan Privasi'
-date = 2026-11-27T12:16:00+08:00
+date = 2026-11-27T12:18:00+08:00
 draft = false
 ShowBreadcrumbs = false
 ShowReadingTime = false
