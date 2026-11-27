@@ -31,3 +31,15 @@ theme = 'PaperMod'
   name = "Cari"
   url = "/search/"
   weight = 30
+
+[[menu.main]]
+  identifier = "about"
+  name = "Tentang"
+  url = "/about/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privasi"
+  url = "/privacy-policy/"
+  weight = 50
