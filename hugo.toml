@@ -1,0 +1,9 @@
+baseURL = 'https://github.io'
+languageCode = 'id-id'
+title = 'Panduan SproutGigs Indonesia'
+theme = 'PaperMod'
+
+[params]
+  description = 'Tutorial lengkap cara daftar, mengerjakan tugas mikro, dan tarik saldo SproutGigs untuk pemula.'
+  ShowReadingTime = true
+  ShowShareButtons = true
