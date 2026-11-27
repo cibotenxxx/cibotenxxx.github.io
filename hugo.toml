@@ -3,7 +3,30 @@ languageCode = 'id-id'
 title = 'Panduan SproutGigs Indonesia'
 theme = 'PaperMod'
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   description = 'Tutorial lengkap cara daftar, mengerjakan tugas mikro, dan tarik saldo SproutGigs untuk pemula.'
   ShowReadingTime = true
   ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[[menu.main]]
+  identifier = "archives"
+  name = "Arsip"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Topik"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "search"
+  name = "Cari"
+  url = "/search/"
+  weight = 30
