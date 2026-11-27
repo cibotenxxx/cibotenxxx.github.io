@@ -25,3 +25,6 @@ tags = ['SproutGigs', 'Kerja Online', 'Micro Jobs']
 * **Baca instruksi dengan teliti:** Pastikan semua bukti (*proof*) yang diminta pemberi kerja dikirim sesuai format.
 * **Kerjakan tugas dengan tingkat keberhasilan tinggi:** Perhatikan persentase *Success Rate* pemberi kerja sebelum mengambil tugas.
 * **Patuhi aturan satu akun:** Jangan membuat lebih dari satu akun dalam satu jaringan Wi-Fi yang sama agar terhindar dari pemblokiran.
+---
+👉 **[Daftar Akun SproutGigs Gratis di Sini](https://sproutgigs.com/u/ARIEF9999?a=b782660e)**
+
