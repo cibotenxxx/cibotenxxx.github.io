@@ -1,4 +1,4 @@
-baseURL = 'https://github.io'
+baseURL = 'https://cibotenxxx.github.io/'
 languageCode = 'id-id'
 title = 'Panduan SproutGigs Indonesia'
 theme = 'PaperMod'
@@ -7,12 +7,12 @@ theme = 'PaperMod'
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  hideFooter = true
   description = 'Tutorial lengkap cara daftar, mengerjakan tugas mikro, dan tarik saldo SproutGigs untuk pemula.'
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  hideFooter = true
 
 [[menu.main]]
   identifier = "archives"
