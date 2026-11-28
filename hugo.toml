@@ -62,3 +62,4 @@ theme = 'PaperMod'
 [params.homeInfoParams]
   Title = "Halo, Selamat Datang! 👋"
   Content = "Panduan lengkap menghasilkan dolar dari SproutGigs untuk pemula. Pelajari cara daftar, trik lulus tugas, hingga tarik saldo ke DANA."
+buildFuture = true
