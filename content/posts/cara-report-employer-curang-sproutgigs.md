@@ -1,6 +1,6 @@
 +++
 title = 'Cara Report Employer (Buyer) Curang dan Mengajukan Banding di SproutGigs'
-date = 2026-11-28T16:00:00+08:00
+date = 2026-11-28T16:30:00+08:00
 draft = false
 description = 'Panduan lengkap cara melaporkan (report) Employer atau Buyer yang menolak tugas secara sepihak di SproutGigs agar saldo dan Success Rate kembali aman.'
 tags = ['SproutGigs', 'Tutorial', 'Tips']
